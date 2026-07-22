@@ -1,2 +1,1 @@
-# xandermj.github.io
-Iplo documentation 
+# Iplo documentation 
