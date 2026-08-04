@@ -17,8 +17,6 @@
 
 
 ## BOI Handeleidingen:
-gebruikershandleiding-hydra-nl-2-9-2.pdf
-
 |Bestand   | versie | datum |
 |---------------------------------------------------------------|-------|----------|
 |<a href="gebruikershandleiding-hydra-nl-2-9-2.pdf" download>📄 Download gebruikershandleiding-hydra-nl-2-9-2.</a>| Versie 2.9.2  | juni 2026 |
